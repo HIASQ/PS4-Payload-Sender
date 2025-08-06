@@ -57,7 +57,7 @@ There are two ways to install and run the application:
 
 ---
 
-## 🙏 Acknowledgment
+## 👋 Acknowledgment
 
 This project is a fork of the original open-source work by **valentinbreiz**.  
 Original source code available here:  
@@ -71,7 +71,7 @@ This software is provided **for educational and personal use only**.
 The developers are not responsible for any misuse of the application.
 Use this tool at your own risk.
 
-## ❗ BY: HIASQ
+## 🧑‍💻 BY: HIASQ
 ---
 
 

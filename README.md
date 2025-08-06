@@ -24,8 +24,9 @@ There are two ways to install and run the application:
 ## ⚙️ How to Use
 
 1. **Connect your PS4**  
-   - Open the *GoldHen* payload loader on your PS4.
-   - Ensure that the payload port (typically `9020`) is open and ready.
+   - Open the *GoldHen* server settings on your PS4.
+   - FTP, --Bin Loader*
+   - Ensure that the payload port (typically `9090` or `9020`) is open and ready.
 
 2. **Enter PS4 IP Address**  
    - On your PS4, check your network settings and find your local IP address.

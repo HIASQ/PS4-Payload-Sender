@@ -3,6 +3,10 @@
 A modernized and fully re-engineered version of the open-source **PS4 Payload Sender**, originally developed by **valentinbreiz**.  
 This application has been rebuilt from scratch to offer better stability, a cleaner UI, and more maintainable code.
 
+This project is a fork of the original open-source work by **valentinbreiz**. You can view the original project source code here:
+[valentinbreiz's PS4 Payload Sender](https://github.com/valentinbreiz/PS4-Payload-Sender/blob/master/PS4%20Payload%20Sender/Form1.cs)
+
+
 ![Screenshot of the main application window showing the connection section.](main-screen.png)
 
 ---

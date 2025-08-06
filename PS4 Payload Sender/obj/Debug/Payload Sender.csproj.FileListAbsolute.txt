@@ -1,0 +1,19 @@
+C:\Users\HIASQ\source\repos\PS4-Payload-Sender-eng\PS4 Payload Sender\bin\Debug\PS4 Payload Sender.exe.config
+C:\Users\HIASQ\source\repos\PS4-Payload-Sender-eng\PS4 Payload Sender\bin\Debug\PS4 Payload Sender.exe
+C:\Users\HIASQ\source\repos\PS4-Payload-Sender-eng\PS4 Payload Sender\bin\Debug\PS4 Payload Sender.pdb
+C:\Users\HIASQ\source\repos\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\Payload_Sender.Form1.resources
+C:\Users\HIASQ\source\repos\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\PS4_Payload_Sender.Properties.Resources.resources
+C:\Users\HIASQ\source\repos\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\Payload Sender.csproj.GenerateResource.cache
+C:\Users\HIASQ\source\repos\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\Payload Sender.csproj.CoreCompileInputs.cache
+C:\Users\HIASQ\source\repos\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.exe
+C:\Users\HIASQ\source\repos\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.pdb
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\bin\Debug\PS4 Payload Sender.exe.config
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\bin\Debug\PS4 Payload Sender.exe
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\bin\Debug\PS4 Payload Sender.pdb
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\Payload Sender.csproj.AssemblyReference.cache
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\Payload_Sender.Form1.resources
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\PS4_Payload_Sender.Properties.Resources.resources
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\Payload Sender.csproj.GenerateResource.cache
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\Payload Sender.csproj.CoreCompileInputs.cache
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.exe
+C:\Users\HIASQ\source\repos\New folder\PS4-Payload-Sender-eng\PS4 Payload Sender\obj\Debug\PS4 Payload Sender.pdb
